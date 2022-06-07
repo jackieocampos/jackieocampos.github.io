@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fcd678b.chunk.css",
+    "main.js": "/static/js/main.a8dd1d7e.chunk.js",
+    "main.js.map": "/static/js/main.a8dd1d7e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a6363a89.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a6363a89.js.map",
+    "static/css/2.2280284b.chunk.css": "/static/css/2.2280284b.chunk.css",
+    "static/js/2.9c264808.chunk.js": "/static/js/2.9c264808.chunk.js",
+    "static/js/2.9c264808.chunk.js.map": "/static/js/2.9c264808.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2280284b.chunk.css.map": "/static/css/2.2280284b.chunk.css.map",
+    "static/css/main.8fcd678b.chunk.css.map": "/static/css/main.8fcd678b.chunk.css.map",
+    "static/js/2.9c264808.chunk.js.LICENSE.txt": "/static/js/2.9c264808.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/3.7c4e17fb.jpg",
+    "static/media/Jackie_Ocampos.7f56ba6e.pdf": "/static/media/Jackie_Ocampos.7f56ba6e.pdf",
+    "static/media/NEODOCTO.8469e65f.png": "/static/media/NEODOCTO.8469e65f.png",
+    "static/media/PARAGO.fd85ae88.png": "/static/media/PARAGO.fd85ae88.png",
+    "static/media/STARTUP.a99aae81.png": "/static/media/STARTUP.a99aae81.png",
+    "static/media/developer.83a8fc49.jpg": "/static/media/developer.83a8fc49.jpg",
+    "static/media/jackie.3b5ba4e0.png": "/static/media/jackie.3b5ba4e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6363a89.js",
+    "static/css/2.2280284b.chunk.css",
+    "static/js/2.9c264808.chunk.js",
+    "static/css/main.8fcd678b.chunk.css",
+    "static/js/main.a8dd1d7e.chunk.js"
+  ]
+}
